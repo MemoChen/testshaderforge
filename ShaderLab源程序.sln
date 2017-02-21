@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{19F4B7ED-2051-D2A7-64D6-6037542DEBA9}") = "ShaderLab源程序", "Assembly-CSharp.csproj", "{00DFC6D5-C9DE-B5ED-36C0-FADE8674A504}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00DFC6D5-C9DE-B5ED-36C0-FADE8674A504}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00DFC6D5-C9DE-B5ED-36C0-FADE8674A504}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00DFC6D5-C9DE-B5ED-36C0-FADE8674A504}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00DFC6D5-C9DE-B5ED-36C0-FADE8674A504}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	
+EndGlobal
